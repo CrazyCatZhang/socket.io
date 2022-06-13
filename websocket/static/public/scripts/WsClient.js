@@ -1,4 +1,4 @@
-var ws = new WebSocket('ws://10.9.72.219:9527/')
+var ws = new WebSocket('ws://192.168.2.124:9527/')
 
 ws.onopen = () => {
   // ws.send('大家好!')
