@@ -1,2 +1,2 @@
 # socket.io
-Three ways to use socket.io:satellite:
+Three ways to use socket.io 🛰️
